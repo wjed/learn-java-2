@@ -1,0 +1,10 @@
+Primitive Types
+
+1. Byte
+2. Short
+3. Int
+4. Long (8 bytes) 
+5. Float
+6. Double (8 bytes)
+7. Char
+8. Boolean
