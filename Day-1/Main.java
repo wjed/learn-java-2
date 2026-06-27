@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
 
-        System.out.print("Pizza");
+        System.out.print("Hello World");
     }
 }
