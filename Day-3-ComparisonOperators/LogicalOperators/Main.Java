@@ -7,9 +7,12 @@ public class Main {
         int input = Integer.parseInt(scanner.nextLine());
         if (input >= 80) {
             System.out.println("Damn, it's hot!");
-        } else if (input >= 50 && input < 80) {
+        } 
+        else if (input >= 50 && input < 80) {
             System.out.println("You'll be good!");
-        } else {
+        } 
+        
+        else {
             System.out.println("Getting Colder!");
         }
     }
